@@ -1,0 +1,4 @@
+make: Entering directory 'c:/Users/Shadow/Documents/GIT/Inutile-Donc-Indispensable/manger'
+gcc manger.c -o miam -std=c90 -pedantic -Wall -Werror
+make: Leaving directory 'c:/Users/Shadow/Documents/GIT/Inutile-Donc-Indispensable/manger'
+ 
